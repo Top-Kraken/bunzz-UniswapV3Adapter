@@ -1,7 +1,7 @@
 {
-  "name": "bunzz-base64",
+  "name": "bunzz-uniswapv3adapter",
   "version": "1.0.0",
-  "description": "Bunzz Base64 Module",
+  "description": "Bunzz UniswapV3Adapter Module",
   "author": "Top-Kraken",
   "license": "MIT",
   "scripts": {
